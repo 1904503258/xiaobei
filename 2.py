@@ -15,9 +15,9 @@ password=password.decode()
 SCKEY = os.getenv("XIAOBEI_SCKEY")
 #健康打卡提交的信息
 temperature={
-    "temperature": "36.3",
-    "coordinates": "中国-重庆市-重庆市-永川区",
-    "location": "105.933807,29.320102",
+    "temperature": "36.5",
+    "coordinates": "中国-陕西省-西安市-长安区",
+    "location": "108.730466,34.301473",
     "healthState": "1",
     "dangerousRegion": "2",
     "dangerousRegionRemark": "",
